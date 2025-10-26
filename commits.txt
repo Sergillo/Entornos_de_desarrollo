@@ -1,0 +1,125 @@
+commit 9fd8f98b50beaa947fc533bc9b47bf5be3811425
+Author: Sergio <slamtor2707@g.educaand.es>
+Date:   Sun Oct 26 23:50:16 2025 +0100
+
+    Finalización: ejercicio10 hecho
+
+commit b81f5aaf335aea56c8300aa7f33da2c1e292d37e
+Author: Sergio <slamtor2707@g.educaand.es>
+Date:   Sun Oct 26 23:49:32 2025 +0100
+
+    Progreso: ejercicio10-primero hecho
+
+commit 52c70e0925e71da91d4dcafdcb626f32c8c9a8d3
+Author: Sergio <slamtor2707@g.educaand.es>
+Date:   Sun Oct 26 23:44:53 2025 +0100
+
+    Finalización: ejercicio9- hechos los 2 f-strings
+
+commit 3fe489fc776bc9b4b469472989e97b95e092fe20
+Author: Sergio <slamtor2707@g.educaand.es>
+Date:   Sun Oct 26 23:44:18 2025 +0100
+
+    Progreso: ejercicio9- primera parte del f-strings
+
+commit 93307463230e20bb45375bfa2e685272d9c799dc
+Author: Sergio <slamtor2707@g.educaand.es>
+Date:   Sun Oct 26 23:32:11 2025 +0100
+
+    Finalización: ejercicio8-todas de las opciones
+
+commit f0150d22f449bbfe38a627bfc2dd10f9d9a90626
+Author: Sergio <slamtor2707@g.educaand.es>
+Date:   Sun Oct 26 23:31:35 2025 +0100
+
+    Progreso: ejercicio8- mitad de las opciones
+
+commit 8e9c55e77dc43f37f96ec93653723c5b153ca7ad
+Author: Sergio <slamtor2707@g.educaand.es>
+Date:   Sun Oct 26 23:19:04 2025 +0100
+
+    Finalización: ejercicio7-mostramos longitud
+
+commit 501c8043538ecaaaafe66d39fc66529481b2aa70
+Author: Sergio <slamtor2707@g.educaand.es>
+Date:   Sun Oct 26 23:18:26 2025 +0100
+
+    Progreso: ejercicio7-calculamos longitud
+
+commit 5b018d4827614348eee8703c6700f0d66d46cb09
+Author: Sergio <slamtor2707@g.educaand.es>
+Date:   Sun Oct 26 23:07:23 2025 +0100
+
+    Finalización: ejercicio6- todas las operaciones
+
+commit b9b0c8d6d151d26c2d3010678de7e0b70210f968
+Author: Sergio <slamtor2707@g.educaand.es>
+Date:   Sun Oct 26 23:06:51 2025 +0100
+
+    Progreso: ejercicio6- mitad de las operaciones
+
+commit 404c8b96c10f7a9cd81e76646b3fd315ede79fc6
+Author: Sergio <slamtor2707@g.educaand.es>
+Date:   Sun Oct 26 22:46:46 2025 +0100
+
+    Finalización: ejercicio5-ejercicio corregido con el int
+
+commit 33e790b1a3d288988247954c00fe7ebf7ec6c37e
+Author: Sergio <slamtor2707@g.educaand.es>
+Date:   Sun Oct 26 22:44:22 2025 +0100
+
+    Progreso: ejercicio5-sin el int en el input
+
+commit 5cb9e464ba3c60f0eccc724bd0cd1ea927aba398
+Author: Sergio <slamtor2707@g.educaand.es>
+Date:   Sun Oct 26 22:32:37 2025 +0100
+
+    Finalización: ejercicio4-mensaje de error mostrado
+
+commit 24587cc0b9921ec6a0516cc693cea6a8332bde35
+Author: Sergio <slamtor2707@g.educaand.es>
+Date:   Sun Oct 26 22:31:14 2025 +0100
+
+    Progreso: ejercicio4-estructura empezada con el ejercicio anterior
+
+commit 669c1f4775e4c4b8ef38d5d45a9a02469400062d
+Author: Sergio <slamtor2707@g.educaand.es>
+Date:   Sun Oct 26 22:23:03 2025 +0100
+
+    Finalización: ejercicio3-edad calculada
+
+commit 6e564e88a68d930c68da5343b593f5c1515701b0
+Author: Sergio <slamtor2707@g.educaand.es>
+Date:   Sun Oct 26 22:21:56 2025 +0100
+
+    Progreso: ejercicio3- variable valor numerico pedida
+
+commit 5314a6d38306b18590048d75cf937abb0de7ea3e
+Author: Sergio <slamtor2707@g.educaand.es>
+Date:   Sun Oct 26 22:11:42 2025 +0100
+
+    Finalización: ejercicio2-variable mostrada con un input
+
+commit fe017f441d0c32b052e6941b65d785cb88a88c65
+Author: Sergio <slamtor2707@g.educaand.es>
+Date:   Sun Oct 26 22:10:28 2025 +0100
+
+    Progreso: ejercicio2-variable asignada con un input
+
+commit c06222c2c046583bc0c38367630f5a15c0ab1e32
+Author: Sergio <slamtor2707@g.educaand.es>
+Date:   Sun Oct 26 22:04:14 2025 +0100
+
+    Finalización: ejercicio1-variable mostrada
+
+commit c9e6fdfdf65832823b925ff8b047dd12f939442f
+Author: Sergio <slamtor2707@g.educaand.es>
+Date:   Sun Oct 26 22:03:21 2025 +0100
+
+    Progreso: ejercicio1-asignado valor a la variable
+
+commit c306c9c93bb7ce14e02a4f48a7c90efc86efecd4
+Author: Sergio <slamtor2707@g.educaand.es>
+Date:   Sun Oct 26 21:02:35 2025 +0100
+
+    Progreso: variable igualada a Pepe
