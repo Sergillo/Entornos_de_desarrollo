@@ -6,3 +6,4 @@
 """
 palabra = input("Introduce una palabra para mostrar su longitud: ")
 longitud = len(palabra)
+print("La longitud de la palabra",palabra, "es de", longitud, "caracteres")
