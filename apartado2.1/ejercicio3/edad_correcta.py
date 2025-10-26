@@ -5,3 +5,5 @@
 • Referencia: conversión de tipos y int()
 """
 año_nacimiento = (int(input("Introduce el año en el que naciste: ")))
+años= 2025 - año_nacimiento
+print("Tu edad es de", años, "años") 
