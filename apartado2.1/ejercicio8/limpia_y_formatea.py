@@ -8,3 +8,5 @@ minúsculas y en mayúsculas.
 frase = input("ingresa una frase con espacios al principio y al final")
 print("Frase original:", frase)
 print("Frase con sin espacio al principio y al final:", frase.strip())
+print("Frase en minúsculas:", frase.strip().lower())
+print("Frase en mayúsculas:", frase.strip().upper())
