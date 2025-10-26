@@ -5,3 +5,4 @@
 • Referencia: input y texto de prompt (pág. 4).
 """
 nombre = input ("Introduzca su nombre")
+print("Hola", nombre)
