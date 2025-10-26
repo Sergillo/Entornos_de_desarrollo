@@ -5,7 +5,7 @@ Sumadora mínima
 con int().
 • Referencia: diferencia entre "10" y 10 (págs. 5 y 10–11).
 """
-num1 = input("Introduce un primer numero: ")
-num2 = input("Introduce un segundo numero: ")
+num1 = int(input("Introduce un primer numero: "))
+num2 = int(input("Introduce un segundo numero: "))
 suma = num1 + num2
 print("La suma es de:", suma)
