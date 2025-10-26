@@ -8,3 +8,5 @@
 nombre = "Pepe"
 edad = 20
 print(f"{nombre} tiene {edad} años")
+numero = 19.2492442
+print(f"Numero formateado:{numero:6.3f}")
