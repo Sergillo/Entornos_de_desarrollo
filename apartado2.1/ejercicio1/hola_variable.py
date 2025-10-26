@@ -5,3 +5,4 @@ cambias el valor.
 • Referencia: variables y asignación (págs. 2–3).
 """
 persona = "Pepe"
+print("Hola", persona)
